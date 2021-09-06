@@ -11,7 +11,6 @@ namespace AwesomeApp
             InitializeComponent();
 
             MainPage = new MainPage();
-            Console.WriteLine("After MainPage()");
         }
 
         protected override void OnStart()
